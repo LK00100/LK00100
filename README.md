@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @LK00100
-- 👀 I’m interested in programing.
-- 🌱 I’m currently learning HTML.
-- 💞️ I’m looking to collaborate on network security.
-- 📫 How to reach me? Tel: 15530820615. QQ: 2040076232.
-- 😄 Pronouns: 灵(LING)
-- ⚡ Fun fact: I am a freshman in China.
-- I have set up some of game servers, such as Palworld, Do not starve, World of Warcraft, etc. If you have some demands about it, you could contact me.
-- I also have some knowledge about network security, and had found some holes from large enterprises. I'm searching for people who is interesting about this section, too. If you are, please tell me.
+## Hacker | Industrial Security & AI 
 
-<!---
-LK00100/LK00100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "System integrity is a default, not a reward."
+
+### 🛠 Technical Toolbox
+- **Languages:** Python, C, C++, Structured Text (ST)
+- **Protocols:** Modbus TCP, S7Comm, TCP/IP Stack
+- **Tools:** OpenPLC, ScadaBR, Docker, Wireshark, Git
+- **AI/ML:** Unsupervised Learning, Anomaly Detection, Feature Engineering
+
+### 📂 Recent Lab Work
+- **ICS Security Gateway:** An intelligent interceptor using AI to protect legacy industrial protocols.
+- **Protocol Audit:** Deep packet inspection (DPI) and real-time response strategies for CPS.
+
+---
+*Deeply immersed in the 408 CS Core curriculum. Open for technical discussions on system architecture and security.*
